@@ -14,8 +14,8 @@
 
 * [pandas](https://pandas.pydata.org/docs/) for datasets
 * [numpy](https://numpy.org/doc/) for math and algebra
-* [sympy](https://www.sympy.org/en/index.html) for deployment
-* [streamlit](https://docs.streamlit.io/) for symbolic mathematics
+* [sympy](https://www.sympy.org/en/index.html) for symbolic mathematics
+* [streamlit](https://docs.streamlit.io/) for deployment
 
 
 ## Installing packages
